@@ -41,18 +41,22 @@ main .main{
 .sec .text{
     background-color: #F1A900;
     text-align: center;
+    padding: 10px;
+    width: 150px;
+    /* font-size: 30px; */
 }
 .sec .tex{
     background-color: black;
     color: white;
     text-align: center;
+    padding: 10px;
 }
 .sec{
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 20px;
-    margin-top: 150px;
+    margin-top: 200px;
 }
 .erangel{
     margin-bottom: 30px;
